@@ -6,3 +6,4 @@ Relevant materials:
 
 +   the attention will revolve mainly around the contents included in the README.md file included in the home of the repo
 +   lecture notes ― see [slideshow_1.ipynb](https://github.com/simoneSantoni/net-analysis-smm638/blob/master/week1/slideshow_1.ipynb)
+aaaa 
